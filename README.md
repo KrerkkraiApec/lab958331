@@ -1,2 +1,2 @@
-# lab958331
-This is repository for lab_958331_krerkkrai
+# hcg-chaper-1
+This is repository of 560651023-HCG-chapter1
